@@ -1,0 +1,9 @@
+02/03/2023
+Estoy siguiendo CS106B Programming abstractions de Stanford Engineering Everywhere
+Con Julie Zelenski
+La página está disponible en https://see.stanford.edu/Course/CS106B
+
+Encontrar las librerías de stanford no fue precisamente trivial.
+Las saqué de http://www.martinstepp.com/cppdoc/
+Igual debería revisarlos  antes de usarlos.
+
